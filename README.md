@@ -10,7 +10,7 @@ These are made by companies like [Honda](https://www.honda.com.au), [Volkswagon]
 
 ### 2. Sedan
 Sedan is a car that looks like this:
-![Sedan Car Image](./images/car.PNG)
+![Sedan Car Image](./Images/car.PNG)
 
 ## Bicycle
 I am typing a list
